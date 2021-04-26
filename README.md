@@ -1,16 +1,14 @@
-### Hi there 👋
+### Heya 👋 Muneeb here.
 
 <!--
-**MuneebHumayun/MuneebHumayun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MuneebHumayun/MuneebHumayun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+My personal Stuff:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Jarvis 2.0
+- 🌱 I’m currently learning kotlin.
+- 👯 I’m looking to collaborate on github
+- 💬 Ask me about collabrations.
+- 📫 How to reach me: muneebhumayun02@gmail.com
+- ⚡ Fun fact: I love to code, play games, travel and hangouts.
+
